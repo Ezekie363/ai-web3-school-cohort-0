@@ -54,4 +54,4 @@
 
 ## 打卡平台
 
-- [WCB Learning 页面](https://web3career.build/zh/programs/AI-Web3-School#tab=learning)（手动提交）
+- [AI × Web3 School 打卡平台](https://intensivecolearn.ing/programs/AI-Web3-School)（手动提交）

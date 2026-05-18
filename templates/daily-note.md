@@ -45,6 +45,6 @@
 
 ---
 
-**打卡链接：** [WCB Learning](https://web3career.build/zh/programs/AI-Web3-School#tab=learning)
+**打卡链接：** [AI × Web3 School 打卡平台](https://intensivecolearn.ing/programs/AI-Web3-School)
 **提交状态：** ⬜ 未提交 / ✅ 已提交
 **提交记录/链接：**
