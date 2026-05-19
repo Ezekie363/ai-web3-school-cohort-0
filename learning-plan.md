@@ -12,8 +12,8 @@
 ## 章节推进顺序
 
 ### AI 基础（按顺序，每章约 1–2 天）
-1. [ ] 大语言模型（LLM） — Day 1
-2. [ ] 提示词（Prompt）
+1. [x] 大语言模型（LLM） — Day 1 ✅
+2. [ ] 提示词（Prompt） — Day 2
 3. [ ] 上下文（Context）
 4. [ ] 检索增强生成（RAG）
 5. [ ] 智能体（Agent）
@@ -25,7 +25,7 @@
 11. [ ] 推理服务（Inference）
 
 ### Web3 基础（每章轻量学习，跟随 AI 进度同步）
-1. [ ] 密码学（Cryptography） — Day 1
+1. [x] 密码学（Cryptography） — Day 1 ✅
 2. [ ] 钱包（Wallet）
 3. [ ] 智能合约（Smart Contract）
 4. [ ] 开发栈（Dev Stack）
